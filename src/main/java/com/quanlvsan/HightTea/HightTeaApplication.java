@@ -7,6 +7,6 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class HightTeaApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(HightTeaApplication.class, args);
+		 SpringApplication.run(HightTeaApplication.class, args);
 	}
 }
