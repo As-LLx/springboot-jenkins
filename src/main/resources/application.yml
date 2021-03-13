@@ -6,5 +6,6 @@ spring:
       exclude: WEB-INF/**
   freemarker:
     cache: false    #页面不加载缓存，修改即时生效
-
+server:
+  port:8001
 
